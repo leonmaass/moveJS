@@ -1,7 +1,7 @@
 (function (global) {
     var move = {
         information: {
-            version: '1.1.2',
+            version: '1.1.3',
             description: 'Let the user move absolute positioned elements',
             author: "Leonard Maass",
             website: "https://github.com/leonmaass/moveJS"
