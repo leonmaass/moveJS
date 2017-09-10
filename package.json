@@ -11,12 +11,13 @@
     "url": "git+https://github.com/leonmaass/moveJS.git"
   },
   "keywords": [
-      moveJS,
-      move,
-      elements,
-      drag,
-      absolute,
-      javascript
+    "moveJS",
+    "move",
+    "elements",
+    "drag",
+    "absolute",
+    "javascript",
+    "position"
   ],
   "author": "Leonard Maass",
   "license": "MIT",
