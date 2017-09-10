@@ -1,0 +1,27 @@
+{
+  "name": "moveJS",
+  "version": "1.1.2",
+  "description": "MoveJS is a small JavaScript library that lets the user move absolute positioned elements.",
+  "main": "moveJS.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leonmaass/moveJS.git"
+  },
+  "keywords": [
+      moveJS,
+      move,
+      elements,
+      drag,
+      absolute,
+      javascript
+  ],
+  "author": "Leonard Maass",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/leonmaass/moveJS/issues"
+  },
+  "homepage": "https://github.com/leonmaass/moveJS#readme"
+}
