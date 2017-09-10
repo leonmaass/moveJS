@@ -4,7 +4,7 @@ MoveJS is a small JavaScript library that lets the user move absolute positioned
 
 ## Installation
 
-With [npm](https://www.npmjs.com/package/move-js):
+With [npm](https://www.npmjs.com/package/moveJS):
 ```
   $ npm install moveJS
 ``` 
